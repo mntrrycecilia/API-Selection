@@ -1,0 +1,6 @@
+﻿Capstone Project API:
+
+
+
+
+https://api.tvmaze.com
